@@ -8,8 +8,4 @@
     <h1>IT WORKS</h1>
 </body>
 </html>
-    </footer>
-
-</body>
-</html>
 
